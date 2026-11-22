@@ -37,8 +37,13 @@ Please enter your phone number: 621-4410
 
 
 Name   : Ana Palacio
+
 Email  : ana@school.edu.bz
+
 Class  : Form 4A
+
 Phone  : 621-4410
+
 Status : Registered
+
 ==================================
