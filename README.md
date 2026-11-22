@@ -26,11 +26,17 @@ Program Overview:
 6. View Event Summary
 0. Exit
 ==================================
+
 Enter your choice (0-6): 1
+
 Please enter your full name: An Palacio
+
 Please enter your email address: ana@school.edu.bz
+
 Please enter your class: Form 4A
+
 Please enter your phone number: 621-4410
+
 ==================================
       REGISTRATION COMPLETED      
 ==================================
