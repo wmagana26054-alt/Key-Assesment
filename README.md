@@ -15,9 +15,11 @@ Requirments
 - Visual Studio Code 
 
 Program Overview: 
+
 ==================================
     STUDENT EVENT REGISTRATION    
 ==================================
+
 1. Register a Student
 2. View All Registrations
 3. Search Student by Name
