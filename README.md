@@ -17,7 +17,9 @@ Requirments
 Program Overview: 
 
 ==================================
-    STUDENT EVENT REGISTRATION    
+   
+    STUDENT EVENT REGISTRATION
+    
 ==================================
 
 1. Register a Student
@@ -27,6 +29,7 @@ Program Overview:
 5. Cancel a Registration
 6. View Event Summary
 0. Exit
+   
 ==================================
 
 Enter your choice (0-6): 1
@@ -40,7 +43,9 @@ Please enter your class: Form 4A
 Please enter your phone number: 621-4410
 
 ==================================
-      REGISTRATION COMPLETED      
+     
+      REGISTRATION COMPLETED    
+      
 ==================================
 
 
